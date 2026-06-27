@@ -117,10 +117,34 @@ npm run build
 
 27 ივნისი
 
-<img width="2880" height="1277" alt="Screenshot 2026-06-27 084915" src="https://github.com/user-attachments/assets/d26d0a13-8c94-48a3-80bc-64d931b57d4d" />
-<img width="2880" height="1282" alt="Screenshot 2026-06-27 084758" src="https://github.com/user-attachments/assets/e46d95a1-e6bd-4f12-a95b-896439f459e4" />
-<img width="2880" height="1275" alt="Screenshot 2026-06-27 084809" src="https://github.com/user-attachments/assets/e67e11e4-0154-4750-8d49-28cd7b369564" />
-<img width="2880" height="1284" alt="Screenshot 2026-06-27 084849" src="https://github.com/user-attachments/assets/a5b9a796-0785-4d62-8897-990d88fcfac0" />
-<img width="2880" height="1277" alt="Screenshot 2026-06-27 084854" src="https://github.com/user-attachments/assets/1b2f958c-5ca2-4d98-a291-0487c941af0c" />
-<img width="2880" height="1284" alt="Screenshot 2026-06-27 084908" src="https://github.com/user-attachments/assets/702bfe16-2bb0-4a13-9358-bb28f122a75e" />
+## home გვერდი
+
+<img width="2880" height="1282" alt="Screenshot 2026-06-27 084758" src="https://github.com/user-attachments/assets/379b44b7-7b74-4f2f-9623-918261d206f5" />
+
+## products გვერდი
+
+
+<img width="2880" height="1275" alt="Screenshot 2026-06-27 084809" src="https://github.com/user-attachments/assets/8f3ef525-fddc-4f6f-9f69-ec77a2c1c340" />
+
+## cart გვერდი
+
+
+<img width="2880" height="1284" alt="Screenshot 2026-06-27 084849" src="https://github.com/user-attachments/assets/563589de-a5ce-451f-a1ff-6d1de99ddba0" />
+
+## about გვერდი
+
+
+<img width="2880" height="1277" alt="Screenshot 2026-06-27 084854" src="https://github.com/user-attachments/assets/949657f5-a394-4a91-8b47-674f66294f40" />
+
+## dark  mode
+
+
+<img width="2880" height="1284" alt="Screenshot 2026-06-27 084908" src="https://github.com/user-attachments/assets/341a5b11-854d-4c14-ad94-63b70f65bd7d" />
+
+## ქართული ვერსია
+
+
+<img width="2880" height="1277" alt="Screenshot 2026-06-27 084915" src="https://github.com/user-attachments/assets/b70ab489-bcff-4de0-8203-ab2bf44383aa" />
+
+
 
