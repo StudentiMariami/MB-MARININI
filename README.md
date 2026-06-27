@@ -116,3 +116,11 @@ npm run build
 ## დასრულების თარიღი
 
 27 ივნისი
+
+<img width="2880" height="1277" alt="Screenshot 2026-06-27 084915" src="https://github.com/user-attachments/assets/d26d0a13-8c94-48a3-80bc-64d931b57d4d" />
+<img width="2880" height="1282" alt="Screenshot 2026-06-27 084758" src="https://github.com/user-attachments/assets/e46d95a1-e6bd-4f12-a95b-896439f459e4" />
+<img width="2880" height="1275" alt="Screenshot 2026-06-27 084809" src="https://github.com/user-attachments/assets/e67e11e4-0154-4750-8d49-28cd7b369564" />
+<img width="2880" height="1284" alt="Screenshot 2026-06-27 084849" src="https://github.com/user-attachments/assets/a5b9a796-0785-4d62-8897-990d88fcfac0" />
+<img width="2880" height="1277" alt="Screenshot 2026-06-27 084854" src="https://github.com/user-attachments/assets/1b2f958c-5ca2-4d98-a291-0487c941af0c" />
+<img width="2880" height="1284" alt="Screenshot 2026-06-27 084908" src="https://github.com/user-attachments/assets/702bfe16-2bb0-4a13-9358-bb28f122a75e" />
+
