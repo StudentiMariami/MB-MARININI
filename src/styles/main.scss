@@ -1,0 +1,66 @@
+@use "../components/Layout" as *;
+@use "../components/ProductCard" as *;
+@use "../components/Modal" as *;
+@use "../pages/Home" as *;
+@use "../pages/Products" as *;
+@use "../pages/Cart" as *;
+@use "../pages/About" as *;
+@use "../pages/NotFound" as *;
+
+:root {
+  color-scheme: light;
+  --bg: #f3f5fb;
+  --surface: #ffffff;
+  --text: #1f2937;
+  --muted: #555b6a;
+  --primary: #2563eb;
+  --shadow: 0 16px 48px rgba(15, 23, 42, 0.08);
+}
+
+[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #0f172a;
+  --surface: #111827;
+  --text: #e2e8f0;
+  --muted: #94a3b8;
+  --primary: #7c3aed;
+  --shadow: 0 16px 48px rgba(15, 23, 42, 0.55);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, system-ui, sans-serif;
+  background: linear-gradient(180deg, var(--bg) 0%, #e9eef9 100%);
+  color: var(--text);
+}
+
+button,
+input,
+select {
+  font: inherit;
+}
+
+a {
+  color: var(--primary);
+  text-decoration: none;
+}
+
+button {
+  border: none;
+  cursor: pointer;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+.page-loader,
+.error-message {
+  padding: 4rem 1rem;
+  text-align: center;
+}
